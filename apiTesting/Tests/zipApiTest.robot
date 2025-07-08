@@ -10,7 +10,17 @@ longitude: "-75.3796"
 latitude: "40.1496"
 state:Pennsylvania
 state abbreviation: PA
-
+Test Case:
+Test zipApi
+1. Verify zipApi url valid
+2. Verify country data
+3. Verify country abbreviation data
+4. Verfiy post code
+5. Verfiy place name
+6. Verify longitude data
+7. Verify latitude
+8. Verify state
+9. Verify State abbreviation
 
 *** Settings ***
 Resource  ../commons/zipApi.robot

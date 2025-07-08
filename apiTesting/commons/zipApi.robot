@@ -1,4 +1,5 @@
 *** Settings ***
+Documentation  Common Keywords for US zipcode api
 Library    JSONLibrary
 Library    RequestsLibrary
 Library    Collections
